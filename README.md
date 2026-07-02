@@ -22,6 +22,20 @@ outcomes you can actually point at.
 
 ### 📌 Featured projects
 
+**[Agentic Inbox Router](https://github.com/saifakhterr/agentic-inbox-router)**
+An AI agent that reads incoming emails, searches a company knowledge base for
+relevant context, and decides the right action: draft a reply, escalate to a
+human, create a follow-up task, or ask the sender for more information. Includes
+a full offline demo across 6 email types — customer queries, complaints, supplier
+quotes, spam, and more.
+
+**[Document-to-Data Agent](https://github.com/saifakhterr/doc-to-data)**
+An AI agent that reads supplier invoices — PDFs or phone photos — extracts the
+structured data with Claude, validates every line of arithmetic with pandas, and
+automatically routes clean invoices to an Excel ledger and suspicious ones to a
+review CSV with the exact reason flagged. Includes an offline demo that needs no
+API key.
+
 **[AI Support Ticket Triage Agent](https://github.com/saifakhterr/ai-ticket-triage)**
 A Python CLI that uses the Claude API to classify, prioritise, and route support
 tickets into clean, validated JSON — the kind of task that normally eats a support
@@ -35,20 +49,6 @@ in a larger trigger → process → decision → output flow.
 **[Restaurant Online Ordering Site](https://github.com/saifakhterr/doner-order-online)**
 A responsive single-page ordering site with a working cart, built in vanilla
 JavaScript. 👉 **[Live demo](https://saifakhterr.github.io/doner-order-online/)**
-
-**[Document-to-Data Agent](https://github.com/saifakhterr/doc-to-data)**
-An AI agent that reads supplier invoices — PDFs or phone photos — extracts the
-structured data with Claude, validates every line of arithmetic with pandas, and
-automatically routes clean invoices to an Excel ledger and suspicious ones to a
-review CSV with the exact reason flagged. Includes an offline demo that needs no
-API key.
-
-**[Agentic Inbox Router](https://github.com/saifakhterr/agentic-inbox-router)**
-An AI agent that reads incoming emails, searches a company knowledge base for
-relevant context, and decides the right action: draft a reply, escalate to a
-human, create a follow-up task, or ask the sender for more information. Includes
-a full offline demo across 6 email types — customer queries, complaints, supplier
-quotes, spam, and more.
 
 ---
 
