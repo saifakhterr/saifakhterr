@@ -43,6 +43,13 @@ automatically routes clean invoices to an Excel ledger and suspicious ones to a
 review CSV with the exact reason flagged. Includes an offline demo that needs no
 API key.
 
+**[Agentic Inbox Router](https://github.com/saifakhterr/agentic-inbox-router)**
+An AI agent that reads incoming emails, searches a company knowledge base for
+relevant context, and decides the right action: draft a reply, escalate to a
+human, create a follow-up task, or ask the sender for more information. Includes
+a full offline demo across 6 email types — customer queries, complaints, supplier
+quotes, spam, and more.
+
 ---
 
 ### 📫 Get in touch
