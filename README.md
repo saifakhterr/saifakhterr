@@ -36,6 +36,13 @@ in a larger trigger → process → decision → output flow.
 A responsive single-page ordering site with a working cart, built in vanilla
 JavaScript. 👉 **[Live demo](https://saifakhterr.github.io/doner-order-online/)**
 
+**[Document-to-Data Agent](https://github.com/saifakhterr/doc-to-data)**
+An AI agent that reads supplier invoices — PDFs or phone photos — extracts the
+structured data with Claude, validates every line of arithmetic with pandas, and
+automatically routes clean invoices to an Excel ledger and suspicious ones to a
+review CSV with the exact reason flagged. Includes an offline demo that needs no
+API key.
+
 ---
 
 ### 📫 Get in touch
