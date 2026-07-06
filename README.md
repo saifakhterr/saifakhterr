@@ -28,6 +28,16 @@ ISO 27001:2022 gap analysis, risk register, 5 tailored security policies, and a
 90-day remediation roadmap — in under a minute. The same deliverable a consultant
 would charge £30–50k to deliver. Full offline demo included, no API key needed.
 
+**[Agentic Threat Triage System](https://github.com/saifakhterr/threat-triage-agent)**
+An autonomous SOC-style triage agent built on Claude's tool-use API. It ingests
+9,537 labeled network-flow records, reasons over IP reputation, encryption,
+failed-login ratios, and access timing, then commits to one of four actions —
+escalate, auto-close, request more info, or recommend quarantine (recommendation
+only, never executed against real infrastructure). Because the dataset is
+labeled, every decision is scored against ground truth: agreement rate, a full
+confusion matrix, and a separate abstention rate. Typed, mypy-clean, full test
+suite running in CI, and a complete offline demo mode with no API key required.
+
 **[Agentic Inbox Router](https://github.com/saifakhterr/agentic-inbox-router)**
 An AI agent that reads incoming emails, searches a company knowledge base for
 relevant context, and decides the right action: draft a reply, escalate to a
