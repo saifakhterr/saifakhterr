@@ -22,6 +22,12 @@ outcomes you can actually point at.
 
 ### 📌 Featured projects
 
+**[AI GRC Co-Pilot](https://github.com/saifakhterr/ai-grc-copilot)**
+A multi-agent AI system that generates a complete GRC compliance starter pack —
+ISO 27001:2022 gap analysis, risk register, 5 tailored security policies, and a
+90-day remediation roadmap — in under a minute. The same deliverable a consultant
+would charge £30–50k to deliver. Full offline demo included, no API key needed.
+
 **[Agentic Inbox Router](https://github.com/saifakhterr/agentic-inbox-router)**
 An AI agent that reads incoming emails, searches a company knowledge base for
 relevant context, and decides the right action: draft a reply, escalate to a
